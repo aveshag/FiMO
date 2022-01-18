@@ -1,0 +1,7 @@
+nclones: 15 (number of clones except normal)
+ncells: 100 (number of cells (without including normal cells))
+clonal_mut: 0.2 (rate of clonal mutation)
+recc_rate: 0.2 (recurrent mutation rate)
+fp: 0.05 (false positive rate)
+fn: 0.2 (false negative rate)
+d_dollo: 3 (dollo-d parameter d, denotes maximum number of back mutation)
